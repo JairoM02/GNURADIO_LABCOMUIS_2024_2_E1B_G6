@@ -21,6 +21,8 @@ IMAGEN 2 :
 
 Se conectó una antena al receptor del radio, alineando la antena receptora con la emisora para captar el espectro de la señal transmitida. Luego, se estimaron el ancho de banda y la potencia máxima utilizando marcadores, todo esto lo aprendimos en la teoria y lo vinimos a complementar en la pracftica y gracias a eso tuvimos una mejor claridad del tema .
 
+https://github.com/JairoM02/GNURADIO_LABCOMUIS_2024_2_E1B_G6/blob/b7bb2115b9bf45d8b3c16ca03418332176de735d/PUNTO_2/PUNTO_2.pdf
+
 
 
 
