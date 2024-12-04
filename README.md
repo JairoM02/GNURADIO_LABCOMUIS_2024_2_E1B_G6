@@ -5,6 +5,14 @@ El análisis del ruido blanco gaussiano permitió estudiar variables como la ban
 
 Parte A :
 
+![image](https://github.com/user-attachments/assets/aa8c7da2-5a26-49ee-be81-020f29989e1f)
+
+
+
+
+En este caso como se observa en las graficas anterior miramos el ruido blanco gaussiano, el cual lo hallamos teniendo en cuenta 
+
+
 
 
 
