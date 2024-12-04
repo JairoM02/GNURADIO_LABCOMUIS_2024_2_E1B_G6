@@ -3,7 +3,7 @@ En la practica 2 titulada "Canal", se centró en la transmisión inalámbrica y 
 El análisis del ruido blanco gaussiano permitió estudiar variables como la banda de transición, frecuencia de corte y amplitud del ruido afectan el dominio del tiempo y el espectro de frecuencia; Herramientas como máscaras espectrales facilitaron la comparación entre señales con y sin ruido, posibilitando el cálculo de la relación señal-ruido (SNR) y su dependencia con la frecuencia de la portadora. Esta práctica reforzó conceptos esenciales del diseño y análisis de sistemas de comunicaciones, destacando la relación entre el ancho de banda y la frecuencia de corte, así como el impacto del ruido en el desempeño del sistema.
 
 
-Parte A :
+IMAGENES :
 
 ![image](https://github.com/user-attachments/assets/aa8c7da2-5a26-49ee-be81-020f29989e1f)
 
@@ -21,4 +21,4 @@ En este caso como se observa en las graficas anterior, se diseñó un esquema pa
 
 
 
-Parte B : 
+
