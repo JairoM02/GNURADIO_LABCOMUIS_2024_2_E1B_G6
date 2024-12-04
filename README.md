@@ -8,6 +8,7 @@ Parte A :
 ![image](https://github.com/user-attachments/assets/aa8c7da2-5a26-49ee-be81-020f29989e1f)
 
 
+![image](https://github.com/user-attachments/assets/9439d0bd-af74-450c-9403-957978e3e0c1)
 
 
 En este caso como se observa en las graficas anterior miramos el ruido blanco gaussiano, el cual lo hallamos teniendo en cuenta 
