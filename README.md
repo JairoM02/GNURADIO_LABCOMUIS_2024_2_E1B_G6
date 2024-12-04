@@ -16,7 +16,8 @@ En esta grafica se puede observar cómo se va comportante la señal al variar lo
 
 
 
-
-
-
 Practica parte B:
+
+![image](https://github.com/user-attachments/assets/2fb82e21-4913-4542-b3b9-98624cc19cd9)
+
+Pudimos observar las dos senoidales las cuales teniamos que ir variando su fase para asi ver el comportamiento y asi se observa el desfase que tienen entre ellas, todo eso nos sirve para tner claro los conocimientos para obtener buenos resultados.
