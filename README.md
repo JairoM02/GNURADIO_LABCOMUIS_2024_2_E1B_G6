@@ -16,4 +16,4 @@ PARTE A :
 
 En el laboratorio se transmitió nuestra señal con los respectivos cambios de ka y Amplitud de la señal, 
 como se ve en la ventana que se controla de GNU Radio y en las tablas que se encuentran en su respectivo pdf el cual agregamos al final podemos ver el comportamiento y los datos obtenidos en nuestro laboratorio , con el objetivo 
-de poder lograr los 3 casos que se pueden dar en las modulaciones de amplitud (AM).
+de poder lograr los 3 casos que se pueden dar en las modulaciones de amplitud (AM).https://github.com/JairoM02/GNURADIO_LABCOMUIS_2024_2_E1B_G6/blob/7558d3c7556ee9feb7136a1293c55484d76e3f0f/PUNTO%201/Punto_1.pdf
