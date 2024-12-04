@@ -11,7 +11,7 @@ Parte A :
 ![image](https://github.com/user-attachments/assets/9439d0bd-af74-450c-9403-957978e3e0c1)
 
 
-En este caso como se observa en las graficas anterior miramos el ruido blanco gaussiano, el cual lo hallamos teniendo en cuenta 
+En este caso como se observa en las graficas anterior, se diseñó un esquema para analizar el impacto del ruido blanco gaussiano en un sistema, considerando las variables: banda de transición, frecuencia de corte, amplitud del ruido, frecuencia y amplitud de la señal. Se estudiaron cómo estos parámetros afectan la señal en el dominio del tiempo y su espectro en frecuencia, enfocándose especialmente en la influencia de la frecuencia de corte sobre el sistema.
 
 
 
