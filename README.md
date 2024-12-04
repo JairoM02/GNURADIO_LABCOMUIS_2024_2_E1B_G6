@@ -6,7 +6,7 @@ Practica parte A :
 
 ![image](https://github.com/user-attachments/assets/3b6681ca-449a-4dfc-a0b1-b610117edb64)
 
-En esta grafica se puede observar cómo se va comportante la señal al variar los parámetros como lo son su frecuencia y su amplitud para así ir siguiendo las indicaciones para familiarizarnos con los conceptos básicos al momento de realizar la conexión de los bloques.
+En esta grafica se puede observar cómo se va comportante la señal al variar los parámetros como lo son su frecuencia de muestreo y su amplitud para así ir siguiendo las indicaciones para familiarizarnos con los conceptos básicos al momento de realizar la conexión de los bloques.
 
 
 
